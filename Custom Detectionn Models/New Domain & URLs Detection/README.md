@@ -1,1 +1,1 @@
-
+This custom detection model monitors new or modified URLs, swiftly identifying potential threats. Integrated with security playbooks, it escalates suspicious URLs for sandbox analysis. Upon confirmation of a threat, it shares Indicators of Compromise (IOCs) through Trend Vision One, bolstering defenses and enhancing cybersecurity measures.
